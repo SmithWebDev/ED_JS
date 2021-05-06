@@ -4,13 +4,13 @@
 
 ### Basics_01
 
-* Variables *
+* Variables
 - let is a keyword that establishes a variable
   - able to be value of variable is able to be reassigned
 - const is a keyword that establishes a variable 
   - value can not be changed, use whenever you have data that never changes
 
-** Best Practice **
+*  Best Practice
 - camelCase = 
 - only letters and digits, also able to begin with $
   -   can not begin with a digit
@@ -20,7 +20,7 @@
 - keywords can not be used a variable names
 - Semicolon is option with variables
 
-* Operators *
+* Operators
 - can include (+, -, /, *, \**, %, and = )
 
 * Data Types
