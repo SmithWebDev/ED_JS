@@ -11,7 +11,7 @@
   - value can not be changed, use whenever you have data that never changes
 
 *Best Practices*
-- camelCase = 
+- camelCase 
 - only letters and digits, also able to begin with $
   -   can not begin with a digit
 - can start with _ or used in the variable name, however snake_case is
@@ -21,7 +21,7 @@
 - Semicolon is option with variables
 
 *Operators*
-- can include (+, -, /, *, \**, %, and = )
+- can include (+, -, /, \*, \**\, %, and = )
 
 *Data Types*
 - Numbers = includes integers/whole number, negative numbers, and
